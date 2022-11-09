@@ -1,0 +1,14 @@
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\CobaProjekProgresII\CobaProjekProgresII\bin\Debug\CobaProjekProgresII.exe.config
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\CobaProjekProgresII\CobaProjekProgresII\bin\Debug\CobaProjekProgresII.exe
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\CobaProjekProgresII\CobaProjekProgresII\bin\Debug\CobaProjekProgresII.pdb
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\CobaProjekProgresII\CobaProjekProgresII\obj\Debug\ProjekPBODesktop.csproj.AssemblyReference.cache
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\CobaProjekProgresII\CobaProjekProgresII\obj\Debug\ProjekPBODesktop.csproj.SuggestedBindingRedirects.cache
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\CobaProjekProgresII\CobaProjekProgresII\obj\Debug\CobaProjekProgresII.Properties.Resources.resources
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\CobaProjekProgresII\CobaProjekProgresII\obj\Debug\CobaProjekProgresII.Views.FormMainMenu.resources
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\CobaProjekProgresII\CobaProjekProgresII\obj\Debug\CobaProjekProgresII.Views.LandingPage.resources
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\CobaProjekProgresII\CobaProjekProgresII\obj\Debug\CobaProjekProgresII.Views.ProdukView.resources
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\CobaProjekProgresII\CobaProjekProgresII\obj\Debug\CobaProjekProgresII.Views.Transaksi.resources
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\CobaProjekProgresII\CobaProjekProgresII\obj\Debug\ProjekPBODesktop.csproj.GenerateResource.cache
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\CobaProjekProgresII\CobaProjekProgresII\obj\Debug\ProjekPBODesktop.csproj.CoreCompileInputs.cache
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\CobaProjekProgresII\CobaProjekProgresII\obj\Debug\CobaProjekProgresII.exe
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\CobaProjekProgresII\CobaProjekProgresII\obj\Debug\CobaProjekProgresII.pdb
