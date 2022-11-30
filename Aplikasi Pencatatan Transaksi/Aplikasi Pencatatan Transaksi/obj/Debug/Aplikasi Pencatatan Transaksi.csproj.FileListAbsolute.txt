@@ -1,0 +1,24 @@
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\bin\Debug\Aplikasi Pencatatan Transaksi.exe.config
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\bin\Debug\Aplikasi Pencatatan Transaksi.exe
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\bin\Debug\Aplikasi Pencatatan Transaksi.pdb
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\obj\Debug\Aplikasi Pencatatan Transaksi.csproj.AssemblyReference.cache
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\obj\Debug\Aplikasi Pencatatan Transaksi.csproj.SuggestedBindingRedirects.cache
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\obj\Debug\Aplikasi_Pencatatan_Transaksi.View.loadingScreen.resources
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\obj\Debug\Aplikasi_Pencatatan_Transaksi.Register.resources
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\obj\Debug\Aplikasi_Pencatatan_Transaksi.Login.resources
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\obj\Debug\Aplikasi_Pencatatan_Transaksi.Properties.Resources.resources
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\obj\Debug\Aplikasi Pencatatan Transaksi.csproj.GenerateResource.cache
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\obj\Debug\Aplikasi Pencatatan Transaksi.csproj.CoreCompileInputs.cache
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\obj\Debug\Aplikasi Pencatatan Transaksi.exe
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\obj\Debug\Aplikasi Pencatatan Transaksi.pdb
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\bin\Debug\FontAwesome.Sharp.dll
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\obj\Debug\Aplikasi Pencatatan Transaksi.csproj.CopyComplete
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\obj\Debug\Aplikasi_Pencatatan_Transaksi.DashBoard.resources
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\obj\Debug\Aplikasi_Pencatatan_Transaksi.View.transaksiView.resources
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\obj\Debug\Aplikasi_Pencatatan_Transaksi.View.produkView.resources
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\obj\Debug\Aplikasi_Pencatatan_Transaksi.View.riwayatView.resources
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\bin\Debug\RJCodeAdvance.RJControls.dll
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\obj\Debug\Aplikasi_Pencatatan_Transaksi.View.addTransaksi.resources
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\obj\Debug\Aplikasi_Pencatatan_Transaksi.View_and_Controller.addProduct.resources
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\obj\Debug\Aplikasi_Pencatatan_Transaksi.View_and_Controller.userControl.home.resources
+D:\Ando File 4 Kuliah\APP APP IT\PROJEK APAPUN\C#\Aplikasi Pencatatan Transaksi\Aplikasi Pencatatan Transaksi\obj\Debug\Aplikasi_Pencatatan_Transaksi.View_and_Controller.userControl.profitView.resources

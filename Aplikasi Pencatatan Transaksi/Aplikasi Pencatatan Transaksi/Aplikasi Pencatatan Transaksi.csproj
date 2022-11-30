@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B762BD05-B21E-4D0F-B1D7-492FF602B629}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Aplikasi_Pencatatan_Transaksi</RootNamespace>
+    <AssemblyName>Aplikasi Pencatatan Transaksi</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=6.1.1.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.6.1.1\lib\net48\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="RJCodeAdvance.RJControls, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RJCodeAdvance.RJControls.1.0.0\lib\net45\RJCodeAdvance.RJControls.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\switchForm.cs" />
+    <Compile Include="Model\dataManage.cs" />
+    <Compile Include="View and Controller\addProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View and Controller\addProduct.Designer.cs">
+      <DependentUpon>addProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View and Controller\addTransaksi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View and Controller\addTransaksi.Designer.cs">
+      <DependentUpon>addTransaksi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View and Controller\DashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View and Controller\DashBoard.Designer.cs">
+      <DependentUpon>DashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View and Controller\loadingScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View and Controller\loadingScreen.Designer.cs">
+      <DependentUpon>loadingScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View and Controller\userControl\home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View and Controller\userControl\home.Designer.cs">
+      <DependentUpon>home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View and Controller\userControl\produkView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View and Controller\userControl\produkView.Designer.cs">
+      <DependentUpon>produkView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View and Controller\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View and Controller\Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View and Controller\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View and Controller\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View and Controller\userControl\profitView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View and Controller\userControl\profitView.Designer.cs">
+      <DependentUpon>profitView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View and Controller\userControl\riwayatView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View and Controller\userControl\riwayatView.Designer.cs">
+      <DependentUpon>riwayatView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View and Controller\userControl\transaksiView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="View and Controller\userControl\transaksiView.Designer.cs">
+      <DependentUpon>transaksiView.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View and Controller\addProduct.resx">
+      <DependentUpon>addProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View and Controller\addTransaksi.resx">
+      <DependentUpon>addTransaksi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View and Controller\DashBoard.resx">
+      <DependentUpon>DashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View and Controller\loadingScreen.resx">
+      <DependentUpon>loadingScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View and Controller\userControl\home.resx">
+      <DependentUpon>home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View and Controller\userControl\produkView.resx">
+      <DependentUpon>produkView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View and Controller\Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View and Controller\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="View and Controller\userControl\profitView.resx">
+      <DependentUpon>profitView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View and Controller\userControl\riwayatView.resx">
+      <DependentUpon>riwayatView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View and Controller\userControl\transaksiView.resx">
+      <DependentUpon>transaksiView.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
